@@ -1,7 +1,7 @@
 {
-  "version": "0.3.1",
+  "version": "0.3.2",
   "releaseDate": "2026-09-22",
-  "releaseNotes": "Tool mesh fix, ping system (Z key), weather HUD, spawn protection display, onboarding prompt, all playtest fixes",
-  "downloadUrl": "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.3.1/AethonGamingFPS.zip",
+  "releaseNotes": "CRITICAL: Weapon replication fix - clients now have weapons. Near-spawn resources and loot.",
+  "downloadUrl": "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.3.2/AethonGamingFPS.zip",
   "minLauncherVersion": "0.1.0"
 }
