@@ -1,7 +1,7 @@
 {
-  "version": "0.2.2",
+  "version": "0.3.0",
   "releaseDate": "2026-09-22",
-  "releaseNotes": "CRITICAL: Fix all client input bindings - weapons, inventory, build, chat, pause now work for joining players",
-  "downloadUrl": "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.2.2/AethonGamingFPS.zip",
+  "releaseNotes": "Storage containers, locks, structure tiers, crafting stations, smelting, weather, ping, loot spawns, perf monitoring, spawn protection",
+  "downloadUrl": "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.3.0/AethonGamingFPS.zip",
   "minLauncherVersion": "0.1.0"
 }
