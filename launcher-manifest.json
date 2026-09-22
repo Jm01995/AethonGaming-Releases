@@ -1,7 +1,7 @@
 {
-  "version": "0.1.1",
+  "version": "0.1.2",
   "releaseDate": "2026-09-21",
-  "releaseNotes": "Player visibility fix, kill feed, pause menu, main menu, weapon colors, PAK encryption",
-  "downloadUrl": "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.1.1/AethonGamingFPS.zip",
+  "releaseNotes": "Player visibility fix, no solo fallback, 4 weapons (was 8), slower survival drain",
+  "downloadUrl": "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.1.2/AethonGamingFPS.zip",
   "minLauncherVersion": "0.1.0"
 }
