@@ -1,7 +1,7 @@
 {
-  "version": "0.2.1",
+  "version": "0.2.2",
   "releaseDate": "2026-09-22",
-  "releaseNotes": "Hostile creatures, death drops, world persistence, admin tools, all phases 0-7 complete",
-  "downloadUrl": "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.2.1/AethonGamingFPS.zip",
+  "releaseNotes": "CRITICAL: Fix all client input bindings - weapons, inventory, build, chat, pause now work for joining players",
+  "downloadUrl": "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.2.2/AethonGamingFPS.zip",
   "minLauncherVersion": "0.1.0"
 }
