@@ -1,7 +1,7 @@
 {
-  "version": "0.1.5",
+  "version": "0.1.6",
   "releaseDate": "2026-09-21",
-  "releaseNotes": "Increased connection timeout for tunnel connections, tool meshes, gathering system",
-  "downloadUrl": "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.1.5/AethonGamingFPS.zip",
+  "releaseNotes": "Base building, gathering tools, settings menu, chat, inventory grid, kill feed, main menu",
+  "downloadUrl": "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.1.6/AethonGamingFPS.zip",
   "minLauncherVersion": "0.1.0"
 }
