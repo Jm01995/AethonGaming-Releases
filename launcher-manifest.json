@@ -1,7 +1,7 @@
 {
-  "version": "0.1.8",
-  "releaseDate": "2026-09-21",
-  "releaseNotes": "Fix stuck movement after main menu, client weapon discovery",
-  "downloadUrl": "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.1.8/AethonGamingFPS.zip",
+  "version": "0.1.9",
+  "releaseDate": "2026-09-22",
+  "releaseNotes": "Client weapon fix, dedicated server support, base building, gathering",
+  "downloadUrl": "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.1.9/AethonGamingFPS.zip",
   "minLauncherVersion": "0.1.0"
 }
