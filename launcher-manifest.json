@@ -1,7 +1,7 @@
 {
-  "version": "0.3.8",
+  "version": "0.3.9",
   "releaseDate": "2026-09-22",
-  "releaseNotes": "Trees/rocks/creature spawn at exact player start for immediate gameplay",
-  "downloadUrl": "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.3.8/AethonGamingFPS.zip",
+  "releaseNotes": "CRITICAL: Trees/rocks now visible to clients via mesh replication. Gathering should work.",
+  "downloadUrl": "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.3.9/AethonGamingFPS.zip",
   "minLauncherVersion": "0.1.0"
 }
