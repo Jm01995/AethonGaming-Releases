@@ -1,7 +1,7 @@
 {
-  "version": "0.3.5",
+  "version": "0.3.6",
   "releaseDate": "2026-09-22",
-  "releaseNotes": "Second creature type (Brute), temperature system, weapon slot fix verified",
-  "downloadUrl": "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.3.5/AethonGamingFPS.zip",
+  "releaseNotes": "Fix settings menu stuck open, improved pause/settings close behavior",
+  "downloadUrl": "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.3.6/AethonGamingFPS.zip",
   "minLauncherVersion": "0.1.0"
 }
