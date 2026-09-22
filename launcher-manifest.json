@@ -1,7 +1,7 @@
 {
-  "version": "0.3.6",
+  "version": "0.3.7",
   "releaseDate": "2026-09-22",
-  "releaseNotes": "Fix settings menu stuck open, improved pause/settings close behavior",
-  "downloadUrl": "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.3.6/AethonGamingFPS.zip",
+  "releaseNotes": "Fix UI overlap (pause/inventory mutually exclusive), settings close fix",
+  "downloadUrl": "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.3.7/AethonGamingFPS.zip",
   "minLauncherVersion": "0.1.0"
 }
