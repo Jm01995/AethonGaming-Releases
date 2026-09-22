@@ -1,7 +1,7 @@
 {
-  "version": "0.5.0",
+  "version": "0.5.1",
   "releaseDate": "2026-09-22",
-  "releaseNotes": "AI playtester bot with full intelligence (19 systems), config-driven balance, chaos testing mode",
-  "downloadUrl": "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.5.0/AethonGamingFPS.zip",
+  "releaseNotes": "Complete AI Testing System: shared issues, cross-system tests, content audit, balance pacing, health score",
+  "downloadUrl": "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.5.1/AethonGamingFPS.zip",
   "minLauncherVersion": "0.1.0"
 }
