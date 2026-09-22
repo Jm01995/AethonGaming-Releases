@@ -1,7 +1,7 @@
 {
-  "version": "0.1.2",
+  "version": "0.1.3",
   "releaseDate": "2026-09-21",
-  "releaseNotes": "Player visibility fix, no solo fallback, 4 weapons (was 8), slower survival drain",
-  "downloadUrl": "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.1.2/AethonGamingFPS.zip",
+  "releaseNotes": "Settings menu, networked chat (Enter), 5x4 grid inventory with tooltips, kill feed, main menu, pause menu",
+  "downloadUrl": "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.1.3/AethonGamingFPS.zip",
   "minLauncherVersion": "0.1.0"
 }
