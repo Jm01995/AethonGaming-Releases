@@ -1,7 +1,7 @@
 {
-  "version": "0.2.0",
+  "version": "0.2.1",
   "releaseDate": "2026-09-22",
-  "releaseNotes": "Major update: dedicated server, gathering, base building, death drops, world persistence, admin tools, chat, settings",
-  "downloadUrl": "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.2.0/AethonGamingFPS.zip",
+  "releaseNotes": "Hostile creatures, death drops, world persistence, admin tools, all phases 0-7 complete",
+  "downloadUrl": "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.2.1/AethonGamingFPS.zip",
   "minLauncherVersion": "0.1.0"
 }
