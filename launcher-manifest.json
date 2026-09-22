@@ -1,7 +1,7 @@
 {
-  "version": "0.1.9",
+  "version": "0.2.0",
   "releaseDate": "2026-09-22",
-  "releaseNotes": "Client weapon fix, dedicated server support, base building, gathering",
-  "downloadUrl": "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.1.9/AethonGamingFPS.zip",
+  "releaseNotes": "Major update: dedicated server, gathering, base building, death drops, world persistence, admin tools, chat, settings",
+  "downloadUrl": "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.2.0/AethonGamingFPS.zip",
   "minLauncherVersion": "0.1.0"
 }
