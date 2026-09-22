@@ -1,7 +1,7 @@
 {
-  "version": "0.4.5",
+  "version": "0.5.0",
   "releaseDate": "2026-09-22",
-  "releaseNotes": "Harvestable trees/rocks fully working on clients, mesh replication verified, gathering RPC",
-  "downloadUrl": "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.4.5/AethonGamingFPS.zip",
+  "releaseNotes": "AI playtester bot with full intelligence (19 systems), config-driven balance, chaos testing mode",
+  "downloadUrl": "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.5.0/AethonGamingFPS.zip",
   "minLauncherVersion": "0.1.0"
 }
