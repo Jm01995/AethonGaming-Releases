@@ -1,7 +1,7 @@
 {
-  "version": "0.5.1",
-  "releaseDate": "2026-09-22",
-  "releaseNotes": "Complete AI Testing System: shared issues, cross-system tests, content audit, balance pacing, health score",
-  "downloadUrl": "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.5.1/AethonGamingFPS.zip",
+  "version": "0.6.0",
+  "releaseDate": "2026-09-28",
+  "releaseNotes": "EOS Multiplayer: anonymous Device ID auth, P2P relay, session discovery. Menu system overhaul. Building texture fix.",
+  "downloadUrl": "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.6.0/AethonGaming-v0.6.0.zip",
   "minLauncherVersion": "0.1.0"
 }
