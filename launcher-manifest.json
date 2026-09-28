@@ -1,7 +1,7 @@
 {
-  "version": "0.6.2",
+  "version": "0.6.3",
   "releaseDate": "2026-09-28",
-  "releaseNotes": "EOS on by default (no launcher flag needed). Public IP auto-detect. Direct IP fallback. Connection diagnostics. 10-player capacity.",
-  "downloadUrl": "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.6.2/AethonGaming-0.6.2.zip",
+  "releaseNotes": "Fix client crash on connect. Timer lambda lifetime fix. 10-player capacity.",
+  "downloadUrl": "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.6.3/AethonGaming-0.6.3.zip",
   "minLauncherVersion": "0.1.0"
 }
