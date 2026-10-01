@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
-  "version": "0.6.14",
+  "version": "0.6.15",
   "releaseDate": "2026-10-01",
-  "releaseNotes": "SpectatorPawn fix, build safety, bot movement, cabinet auth, clean usernames, bug report text field, admin panel improvements.",
-  "downloadUrl": "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.6.14/AethonGaming-0.6.14.zip",
+  "releaseNotes": "F1/F2 input fix, server-side monster spawning, version sync fix.",
+  "downloadUrl": "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.6.15/AethonGaming-0.6.15.zip",
   "gameExecutable": "AethonGaming.exe",
   "gameExecutablePath": "",
   "minimumLauncherVersion": "1.0.0"
