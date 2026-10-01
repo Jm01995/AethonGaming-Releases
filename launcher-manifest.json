@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
-  "version": "0.6.17",
+  "version": "0.6.18",
   "releaseDate": "2026-10-01",
-  "releaseNotes": "Home screen, Extraction crash fixes, ESC universal back.",
-  "downloadUrl": "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.6.17/AethonGaming-0.6.17.zip",
+  "releaseNotes": "Dynamic backpack/rig equipment, Tarkov-style drag, rotation fix.",
+  "downloadUrl": "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.6.18/AethonGaming-0.6.18.zip",
   "gameExecutable": "AethonGaming.exe",
   "gameExecutablePath": "",
   "minimumLauncherVersion": "1.0.0"
