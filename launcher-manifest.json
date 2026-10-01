@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
-  "version": "0.6.16",
+  "version": "0.6.17",
   "releaseDate": "2026-10-01",
-  "releaseNotes": "Hobie merge, F2 fix, graceful shutdown, server-side monsters.",
-  "downloadUrl": "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.6.16/AethonGaming-0.6.16.zip",
+  "releaseNotes": "Home screen, Extraction crash fixes, ESC universal back.",
+  "downloadUrl": "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.6.17/AethonGaming-0.6.17.zip",
   "gameExecutable": "AethonGaming.exe",
   "gameExecutablePath": "",
   "minimumLauncherVersion": "1.0.0"
