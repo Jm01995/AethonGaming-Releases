@@ -1,11 +1,10 @@
 {
   "schemaVersion": 2,
-  "version": "0.6.13",
+  "version": "0.6.14",
   "releaseDate": "2026-10-01",
-  "releaseNotes": "Bots move properly. Clean usernames. Cabinet auth for all building actions. Invisible server host.",
-  "downloadUrl": "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.6.13/AethonGaming-0.6.13.zip",
-  "minLauncherVersion": "1.0.0",
+  "releaseNotes": "SpectatorPawn fix, build safety, bot movement, cabinet auth, clean usernames, bug report text field, admin panel improvements.",
+  "downloadUrl": "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.6.14/AethonGaming-0.6.14.zip",
   "gameExecutable": "AethonGaming.exe",
   "gameExecutablePath": "",
-  "launcherUpdateUrl": "https://github.com/Jm01995/AethonGamingLauncher/releases"
+  "minimumLauncherVersion": "1.0.0"
 }
