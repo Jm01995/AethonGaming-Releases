@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
-  "version": "0.6.15",
+  "version": "0.6.16",
   "releaseDate": "2026-10-01",
-  "releaseNotes": "F1/F2 input fix, server-side monster spawning, version sync fix.",
-  "downloadUrl": "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.6.15/AethonGaming-0.6.15.zip",
+  "releaseNotes": "Hobie merge, F2 fix, graceful shutdown, server-side monsters.",
+  "downloadUrl": "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.6.16/AethonGaming-0.6.16.zip",
   "gameExecutable": "AethonGaming.exe",
   "gameExecutablePath": "",
   "minimumLauncherVersion": "1.0.0"
