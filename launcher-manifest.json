@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
-  "version": "0.6.18",
+  "version": "0.6.19",
   "releaseDate": "2026-10-01",
-  "releaseNotes": "Dynamic backpack/rig equipment, Tarkov-style drag, rotation fix.",
-  "downloadUrl": "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.6.18/AethonGaming-0.6.18.zip",
+  "releaseNotes": "Extraction major update: insurance, nested containers, looting, FIR market.",
+  "downloadUrl": "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.6.19/AethonGaming-0.6.19.zip",
   "gameExecutable": "AethonGaming.exe",
   "gameExecutablePath": "",
   "minimumLauncherVersion": "1.0.0"
