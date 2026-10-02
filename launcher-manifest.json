@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
-  "version": "0.6.19",
+  "version": "0.6.20",
   "releaseDate": "2026-10-01",
-  "releaseNotes": "Extraction major update: insurance, nested containers, looting, FIR market.",
-  "downloadUrl": "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.6.19/AethonGaming-0.6.19.zip",
+  "releaseNotes": "Full Extraction systems: progression, combat, quests, scavs.",
+  "downloadUrl": "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.6.20/AethonGaming-0.6.20.zip",
   "gameExecutable": "AethonGaming.exe",
   "gameExecutablePath": "",
   "minimumLauncherVersion": "1.0.0"
