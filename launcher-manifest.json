@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
-  "version": "0.6.21",
+  "version": "0.6.22",
   "releaseDate": "2026-10-02",
-  "releaseNotes": "Survival: safe zones, wolves, supply drops, outposts, raiding rework, Hatch's Work quests, foraging, armor tiers + repair, salvage, cooking, map markers, stack limits, roof rework; server-trust fixes (version handshake, admin/bot/gather RPC checks, cabinet self-authorization off, rate limiter, fail-safe world save). 0.6.20 clients must update.",
-  "downloadUrl": "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.6.21/AethonGaming-0.6.21.zip",
+  "releaseNotes": "Hotfix v0.6.22: a launcher PLAY that starts the game with a server address now sends its version, token and account (was refused with client=(none)). Older clients must update.",
+  "downloadUrl": "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.6.22/AethonGaming-0.6.22.zip",
   "gameExecutable": "AethonGaming.exe",
   "gameExecutablePath": "",
   "minimumLauncherVersion": "1.0.0"
