@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
-  "version": "0.6.23",
+  "version": "0.6.24",
   "releaseDate": "2026-10-03",
-  "releaseNotes": "Extraction for real clients: in-raid HUD, result screens, stash saved on your PC, raids that start with players and reset when empty, version check on raid servers, denser Blackwood Forest, QUIT TO MENU. Survival: Base Cabinet panel, spawn-area fixes, respawn clears bleeding. 0.6.22 clients must update.",
-  "downloadUrl": "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.6.23/AethonGaming-0.6.23.zip",
+  "releaseNotes": "F1 admin panel works on the live server. Older clients must update.",
+  "downloadUrl": "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.6.24/AethonGaming-0.6.24.zip",
   "gameExecutable": "AethonGaming.exe",
   "gameExecutablePath": "",
   "minimumLauncherVersion": "1.0.0"
