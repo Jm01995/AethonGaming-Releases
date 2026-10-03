@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
-  "version": "0.6.22",
-  "releaseDate": "2026-10-02",
-  "releaseNotes": "Hotfix v0.6.22: a launcher PLAY that starts the game with a server address now sends its version, token and account (was refused with client=(none)). Older clients must update.",
-  "downloadUrl": "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.6.22/AethonGaming-0.6.22.zip",
+  "version": "0.6.23",
+  "releaseDate": "2026-10-03",
+  "releaseNotes": "Extraction for real clients: in-raid HUD, result screens, stash saved on your PC, raids that start with players and reset when empty, version check on raid servers, denser Blackwood Forest, QUIT TO MENU. Survival: Base Cabinet panel, spawn-area fixes, respawn clears bleeding. 0.6.22 clients must update.",
+  "downloadUrl": "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.6.23/AethonGaming-0.6.23.zip",
   "gameExecutable": "AethonGaming.exe",
   "gameExecutablePath": "",
   "minimumLauncherVersion": "1.0.0"
