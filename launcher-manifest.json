@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
-  "version": "0.6.24",
+  "version": "0.6.25",
   "releaseDate": "2026-10-03",
-  "releaseNotes": "F1 admin panel works on the live server. Older clients must update.",
-  "downloadUrl": "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.6.24/AethonGaming-0.6.24.zip",
+  "releaseNotes": "Survival stays listed in the server browser; electricity; Extraction stash saved + safe; Ironworks Plateau and Dead Harbor built. Older clients must update.",
+  "downloadUrl": "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.6.25/AethonGaming-0.6.25.zip",
   "gameExecutable": "AethonGaming.exe",
   "gameExecutablePath": "",
   "minimumLauncherVersion": "1.0.0"
