@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
-  "version": "0.6.25",
-  "releaseDate": "2026-10-03",
-  "releaseNotes": "Survival stays listed in the server browser; electricity; Extraction stash saved + safe; Ironworks Plateau and Dead Harbor built. Older clients must update.",
-  "downloadUrl": "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.6.25/AethonGaming-0.6.25.zip",
+  "version": "0.6.26",
+  "releaseDate": "2026-10-04",
+  "releaseNotes": "Slayer, contracts, clue scrolls, pickpocketing, skill pace, roof rework, scheduled wipes every 30 days. Older clients must update.",
+  "downloadUrl": "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.6.26/AethonGaming-0.6.26.zip",
   "gameExecutable": "AethonGaming.exe",
   "gameExecutablePath": "",
   "minimumLauncherVersion": "1.0.0"
