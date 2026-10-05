@@ -1,10 +1,10 @@
 {
-  "schemaVersion": 2,
-  "version": "0.6.26",
-  "releaseDate": "2026-10-04",
-  "releaseNotes": "Slayer, contracts, clue scrolls, pickpocketing, skill pace, roof rework, scheduled wipes every 30 days. Older clients must update.",
-  "downloadUrl": "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.6.26/AethonGaming-0.6.26.zip",
-  "gameExecutable": "AethonGaming.exe",
-  "gameExecutablePath": "",
-  "minimumLauncherVersion": "1.0.0"
+    "version":  "0.6.27",
+    "releaseNotes":  "Release v0.6.27 - outpost bosses, safer saves, server-side checks, trade window fix. Older clients must update.",
+    "gameExecutablePath":  "",
+    "minimumLauncherVersion":  "1.0.0",
+    "downloadUrl":  "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.6.27/AethonGaming-0.6.27.zip",
+    "releaseDate":  "2026-10-04",
+    "schemaVersion":  2,
+    "gameExecutable":  "AethonGaming.exe"
 }
