@@ -1,9 +1,9 @@
 {
-    "version":  "0.6.27",
-    "releaseNotes":  "Release v0.6.27 - outpost bosses, safer saves, server-side checks, trade window fix. Older clients must update.",
+    "version":  "0.6.28",
+    "releaseNotes":  "Hotfix v0.6.28 (release/0.6.28). Older clients must update.",
     "gameExecutablePath":  "",
     "minimumLauncherVersion":  "1.0.0",
-    "downloadUrl":  "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.6.27/AethonGaming-0.6.27.zip",
+    "downloadUrl":  "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.6.28/AethonGaming-0.6.28.zip",
     "releaseDate":  "2026-10-04",
     "schemaVersion":  2,
     "gameExecutable":  "AethonGaming.exe"
