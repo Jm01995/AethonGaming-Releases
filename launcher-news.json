@@ -20,6 +20,15 @@
       "title": "Aethon accounts are live",
       "summary": "Create a username + password in the launcher. One account for every mode.",
       "body": "Every server now requires an Aethon account.\n\n1. On the login screen, click Create Account\n2. Pick a username (3-16 letters, numbers or _) and a password (8+ characters)\n3. Sign in and press PLAY\n\nThe name over your head and in chat is your account name. One account works in Survival, Extraction and Search & Destroy."
+    },
+    {
+      "id": "controls-guide",
+      "type": "devlog",
+      "tag": "GUIDE",
+      "date": "2026-10-05",
+      "title": "Controls Guide",
+      "summary": "Every key for Survival, Extraction and Search & Destroy.",
+      "body": "Default keys (Settings > Controls can rebind movement, combat and hotbar keys).\n\nMOVEMENT\nW A S D - move | Mouse - look | Space - jump\nShift (hold) - sprint | C (hold) - crouch | Q / E (hold) - lean left / right\n\nCOMBAT\nLeft mouse - fire (hold for automatic weapons) | Right mouse (hold) - aim\nShift while aiming - hold breath (steadier scope, ~4 s)\nR - reload | 1-6 or mouse wheel - hotbar | T - weapon light (if attached)\nL - inspect weapon | Page Up / Page Down - sight zeroing\n\nITEMS\nTab - inventory (drag items; right-click for options; Shift-drag splits a stack)\n7 / 8 / 9 - quick bandage / medkit / water | F5 - quick save\n\nINTERACT\nF - interact: loot, open doors and boxes, pick up, talk to traders, open benches and furnaces\nCrouch + F at a player or trader - pickpocket | X at your code lock - lock menu\nSpace on the death screen - respawn\n\nBUILDING\nB - build mode | Left mouse - place | Right mouse (hold) - piece wheel\nMouse wheel or T - change piece | R - rotate | N - snapping on/off\nLeft Alt (hold) - steer the piece with the mouse (wheel raises/lowers)\nLooking at your piece: F upgrade to stone, G repair, U upgrade door, H (hold) demolish (first 10 minutes)\n\nSOCIAL & MENUS\nEnter - chat | Z - ping | V (hold) - emote wheel\nM - map (wheel zooms, right-click sets a waypoint) | K - skills | O - clan\nEsc or F10 - pause menu | F2 - report a bug\n\nEXTRACTION\nIn the base: drag items between stash and loadout, double-click a container to open it, R rotates while dragging\nIn a raid: stand in an open extraction zone for about 7 seconds to get out\n\nSEARCH & DESTROY\nY - buy menu (during buy time, in your spawn): 1-3 picks a category, 1-4 buys, 5 goes back\nF (hold) - plant the bomb at site A/B, or defuse it (3.5 s with a kit, 7 s without)\nLeft mouse while dead - watch the next teammate"
     }
   ]
 }
