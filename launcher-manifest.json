@@ -1,10 +1,10 @@
 {
-    "version":  "0.6.44",
-    "releaseNotes":  "Hotfix v0.6.44 (release/0.6.44). Older clients must update.",
+    "version":  "0.6.45",
+    "releaseNotes":  "Hotfix v0.6.45 (release/0.6.45). Older clients must update.",
     "authUrl":  "https://71.195.239.149:7790",
     "gameExecutablePath":  "",
     "minimumLauncherVersion":  "1.0.0",
-    "downloadUrl":  "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.6.44/AethonGaming-0.6.44.zip",
+    "downloadUrl":  "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.6.45/AethonGaming-0.6.45.zip",
     "releaseDate":  "2026-10-08",
     "authCertSha256":  "4D:2C:97:46:15:4F:D3:C2:16:25:A7:A6:E8:A2:69:D4:B7:BF:9E:D3:08:42:69:B7:25:D7:DD:1D:03:DB:26:4B",
     "modeLaunchMinVersion":  "0.6.32",
