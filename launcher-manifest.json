@@ -1,32 +1,32 @@
 {
     "downloadParts":  [
                           {
-                              "url":  "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.6.66/AethonGaming-0.6.66.zip.001",
+                              "url":  "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.6.67/AethonGaming-0.6.67.zip.001",
                               "size":  2040109465,
-                              "sha256":  "6b260300865b80039b57e89b987786453fffe562757fb331acc09902ec3a3daf"
+                              "sha256":  "4af6b1537f24d342bd9ef9e3e729d56e7f799ef006d12282444ee627c16f2110"
                           },
                           {
-                              "url":  "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.6.66/AethonGaming-0.6.66.zip.002",
+                              "url":  "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.6.67/AethonGaming-0.6.67.zip.002",
                               "size":  2040109465,
-                              "sha256":  "9a279b3480609179ebabbad8bb73d89896bcd6c38ccec43748477831e590760b"
+                              "sha256":  "077b45dffff92838d99dee5e7b38d47cbf7c5f1c437024239456007de87f2677"
                           },
                           {
-                              "url":  "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.6.66/AethonGaming-0.6.66.zip.003",
-                              "size":  338456002,
-                              "sha256":  "53e6d799a9325841a37caf9737a9c61a7f07155a32860c06afbfa787a31480e8"
+                              "url":  "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.6.67/AethonGaming-0.6.67.zip.003",
+                              "size":  338511856,
+                              "sha256":  "097bba7876bf506c4fa0563d7c7368661a326321d6ae844a4824d7a13332bfaa"
                           }
                       ],
-    "version":  "0.6.66",
-    "zipSize":  4418674932,
-    "releaseNotes":  "Hotfix v0.6.66 (release/0.6.66). Older clients must update.",
+    "version":  "0.6.67",
+    "zipSize":  4418730786,
+    "releaseNotes":  "Hotfix v0.6.67 (release/0.6.67). Older clients must update.",
     "authUrl":  "https://71.195.239.149:7790",
     "gameExecutablePath":  "",
     "minimumLauncherVersion":  "1.4.1",
-    "downloadUrl":  "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.6.66/AethonGaming-0.6.66.zip.001",
+    "downloadUrl":  "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.6.67/AethonGaming-0.6.67.zip.001",
     "releaseDate":  "2026-10-10",
     "authCertSha256":  "4D:2C:97:46:15:4F:D3:C2:16:25:A7:A6:E8:A2:69:D4:B7:BF:9E:D3:08:42:69:B7:25:D7:DD:1D:03:DB:26:4B",
     "modeLaunchMinVersion":  "0.6.32",
-    "zipSha256":  "c8581e1450982c626007d55b9d86878ac43ea21473117dd55558c570ec5f0806",
+    "zipSha256":  "e355820293c0bafa522bd1e366953c45f66cb9fc4728d1ad2f9ad019d618260d",
     "schemaVersion":  2,
     "gameExecutable":  "AethonGaming.exe"
 }
